@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      goggeli_0: -31751513263902582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
